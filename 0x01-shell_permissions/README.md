@@ -24,3 +24,5 @@ a script that changes the owner and the group owner of _hello to vincent and sta
 a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
 a script that will play the StarWars IV episode in the terminal
 a script that changes the group owner to school for the file hello
+a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
+a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
