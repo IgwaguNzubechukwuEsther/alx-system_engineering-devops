@@ -1,2 +1,5 @@
 #!/bin/bash
 cat /etc/passwd
+[master 4ab1cf5] 2. Let us display a file
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x02-shell_redirections/2-hellofile
